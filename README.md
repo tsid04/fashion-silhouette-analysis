@@ -26,7 +26,7 @@ This project shows that even simple techniques like thresholding, morphology, an
 
 ---
 
-## How It Works (High Level)
+## How It Works 
 
 First, each image is converted to grayscale and enhanced to improve contrast. The image is then thresholded to separate the clothing from the background. Morphological operations are applied to clean up the result, and connected components are used to isolate the main silhouette.
 
