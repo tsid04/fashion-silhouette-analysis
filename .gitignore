@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Results and generated files
+results/
+*_mask.png
+*_lines.png
+*_hog.png
+
+# OS
+.DS_Store
